@@ -4,7 +4,7 @@ A curated list of learning resources for programming, mostly in JavasScript, how
 
 ### Writing Better JavaScript
 
-#### Functional Programming in JavaScript with ***funfunfun***
+#### Functional Programming in JavaScript with ***MPJ***
 * [Higher-Order Functions](https://www.youtube.com/watch?v=BMUiFMZr7vk)
 * [Map/Filter](https://www.youtube.com/watch?v=bCqtb-Z5YGQ)
 * [Reduce](https://www.youtube.com/watch?v=Wl98eZpkp-c)
