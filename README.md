@@ -6,3 +6,4 @@ A curated list of learning resources for programming, mostly in JavasScript, how
 
 ***funfunfun***
 * [Higher-Order Functions](https://www.youtube.com/watch?v=BMUiFMZr7vk)
+* [Curring](https://www.youtube.com/watch?v=iZLP4qOwY8I)
