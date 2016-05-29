@@ -6,4 +6,4 @@
 ### Writing Better JavaScript
 
 ***funfunfun***
-* (Higher-Order Functions)[https://www.youtube.com/watch?v=BMUiFMZr7vk]
+* [Higher-Order Functions](https://www.youtube.com/watch?v=BMUiFMZr7vk)
